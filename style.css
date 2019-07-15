@@ -7,3 +7,9 @@ html {
     font: 18px/1.5 Georgia, serif;
     color: #444;
 }
+
+iframe {
+    border:0;
+    margin:0;
+    padding:0;
+}
